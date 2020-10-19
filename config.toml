@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "http://example.org/"
+baseURL = "https://suspicious-jang-3515d5.netlify.app/"
 languageCode = "en-us"
 title = "Martin Portfolio Website"
 theme = "forty"
@@ -104,7 +104,7 @@ disqusShortname = ""
       url = "blogs/tempus"
 
     [[params.tiles.showcase]]
-      title = "Magna"
+      title = "Mangoooo"
       subtitle = "Lorem Etiam Nullam"
       image = "pic03.jpg"
       url = "blogs/magna"
